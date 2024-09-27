@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "pizza.html",
+    "href": "pizza.html",
+    "title": "Pizza",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "pizza.html#quarto",
+    "href": "pizza.html#quarto",
+    "title": "Pizza",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "pizza.html#running-code",
+    "href": "pizza.html#running-code",
+    "title": "Pizza",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "pineapple.html",
+    "href": "pineapple.html",
+    "title": "pineapple",
+    "section": "",
+    "text": "……….."
+  },
+  {
+    "objectID": "pineapple.html#change-my-mind",
+    "href": "pineapple.html#change-my-mind",
+    "title": "pineapple",
+    "section": "",
+    "text": "……….."
+  }
+]
