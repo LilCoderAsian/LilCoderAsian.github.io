@@ -1,26 +1,62 @@
 ---
-title: "Pizza"
-format: html
-editor: visual
+title: Asian man
+image: Asian.png
+about: 
+  template: trestles
+  image-shape: rectangle
+  links: 
+    - icon: youtube
+      text: Youtube
+      href: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+    - icon: youtube
+      text: Another youtube
+      href: https://www.youtube.com/watch?v=tL9yDq5hpgI
 ---
 
-## Quarto
-
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
-
-## Running Code
-
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
-
-```{r}
-1 + 1
+```         
+Your local rice dealer
 ```
 
-You can add options to executable code like this
+## Education
 
-```{r}
-#| echo: false
-2 * 2
-```
+Rice planting
 
-The `echo: false` option disables the printing of code (only output is displayed).
+## How to plant rice
+
+1.  **Choose the Right Rice Variety**\
+    Before you start planting, select the right variety of rice that suits your climate and soil type. Some varieties are suited for dry land, while others thrive in paddies (flooded fields).
+2.  **Prepare the Seeds**\
+    Soak the rice seeds in water for about 12-24 hours to encourage faster germination. After soaking, drain them and let them sit in a shaded place for another day or two until they start sprouting.
+3.  **Prepare the Land**\
+    Rice grows best in well-drained, loamy soil. If you’re planting in a paddy, flood the field with 2-3 inches of water before transplanting. For dry planting, till the soil to loosen it and remove any weeds.
+4.   **Sow the Seeds or Transplant the Seedlings**
+
+-   **Direct Seeding**: Scatter the sprouted seeds across the prepared land (for dry fields or puddled paddies).
+
+-   **Transplanting**: Start your seeds in a nursery tray and wait until they become 3-4 inches tall. Once they’re ready, carefully transplant them into your prepared paddy, spacing the seedlings about 8-10 inches apart.
+
+**5. Manage Water Levels**\
+Rice loves water! For paddy fields, maintain 2-4 inches of water until about two weeks before harvest. Drain the water gradually to allow the field to dry out. For dry-land rice, ensure the soil stays consistently moist, especially during critical growth stages.
+
+**6. Fertilize and Weed Regularly**\
+Rice plants need nutrients to thrive. Fertilize the fields with nitrogen, phosphorus, and potassium during the growing season. Weeds can compete with the rice for nutrients, so hand-weed or use herbicides to keep them under control.
+
+**7. Control Pests and Diseases**\
+Monitor the crop for pests like rice borers and diseases such as bacterial blight. Use organic or chemical treatments as necessary, but make sure they are safe for your specific environment.
+
+**8. Monitor Growth Stages**\
+Rice plants go through several growth stages:
+
+-   **Vegetative**: From seedling to tillering (when the plant starts producing side shoots).
+
+-   **Reproductive**: The plant grows and develops flowers (panicles).
+
+-   **Ripening**: The grains mature and change color, usually from green to golden brown.
+
+**9. Harvest the Rice**\
+Rice is ready to harvest when about 80-90% of the grains turn golden brown. You can harvest by hand (cutting the stalks with a sickle) or use a machine. Thresh the grains to separate them from the stalks.
+
+**10. Dry and Store the Grains**\
+Dry the harvested grains under the sun or using mechanical dryers until the moisture content is about 14%. This prevents mold and ensures the rice can be stored for a long time. Store the grains in a cool, dry place.
+
+##  
