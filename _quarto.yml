@@ -10,7 +10,7 @@ website:
       - href: index.qmd
         text: Home
       - pineapple.qmd
-      - riceprice.qmd
+      - howtoeatwithchopstick.qmd
     tools:
       - icon: github
         href: https://github.com/LilCoderAsian/LilCoderAsian.github.io
