@@ -21,6 +21,7 @@ format:
   html:
     theme: sketchy
     toc: true
+    css: styles.css
 
 editor: source
 

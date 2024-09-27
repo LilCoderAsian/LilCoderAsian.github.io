@@ -4,7 +4,7 @@ format: html
 editor: visual
 ---
 
-# Cooking rice the Asian way is an art! 
+# Cooking rice the Asian way is an art!
 
 ## Here's how you can do it
 
@@ -24,7 +24,7 @@ The water-to-rice ratio is key. The classic rule is 1:1.5—for every cup of ric
 
 For softer rice, let it soak in the water for 15-30 minutes before cooking, especially for sticky rice or short-grain rice like sushi rice.
 
-### **5. Cook the Rice** 
+### **5. Cook the Rice**
 
 -   **Bring to Boil**: Put the rice and water in a pot. Add a pinch of salt if desired. Bring it to a rolling boil on medium-high heat with the lid off.
 
