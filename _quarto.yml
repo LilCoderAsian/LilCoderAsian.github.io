@@ -1,3 +1,4 @@
+
 project:
   type: website
   output-dir: docs
@@ -6,7 +7,7 @@ website:
   title: "Dumb website"
   navbar:
     left:
-      - href: pizza.qmd
+      - href: index.qmd
         text: Home
       - pineapple.qmd
     tools:
