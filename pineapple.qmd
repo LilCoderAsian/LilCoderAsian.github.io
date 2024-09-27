@@ -4,7 +4,7 @@ format: html
 editor: visual
 ---
 
-# Cooking rice the Asian way is an art!
+# Cooking rice the Asian way
 
 ## Here's how you can do it
 
